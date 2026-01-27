@@ -1,4 +1,7 @@
-﻿export default [
+﻿import component from "@/locales/en-US/component";
+import route from "mock/route";
+
+export default [
 	{
 		path: '/user',
 		layout: false,
@@ -57,6 +60,11 @@
 	// 	],
 	// },
 
+	{
+		path: '/LapTrinhWeb2',
+		name: 'Thực hành 1',
+		component: './laptrinhweb/table',
+	},
 	{
 		path: '/notification',
 		routes: [
