@@ -1,5 +1,6 @@
 ﻿import component from "@/locales/en-US/component";
 import route from "mock/route";
+import path from "path";
 
 export default [
 	{
@@ -64,6 +65,14 @@ export default [
 		path: '/LapTrinhWeb2',
 		name: 'Thực hành 1',
 		component: './laptrinhweb/table',
+	},{
+		path:'/ThucHanh1',
+		name: 'BT thực hành 1',
+		component:'./TH1/index',
+	},{
+		path:'/ThucHanh2',
+		name:'BT thực hành 2',
+		component:'./TH2/index',
 	},
 	{
 		path: '/notification',
