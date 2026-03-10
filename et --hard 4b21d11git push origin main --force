@@ -1,0 +1,293 @@
+[33mcommit f0ae13c0417ddd05d280612075aab84f6587f763[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Docongan <ando73842@gmail.com>
+Date:   Tue Mar 10 10:05:39 2026 +0700
+
+    add TH1 TH2
+
+[33mcommit 5092e33d834e6ef8d6e76a0effd256850ae5cf2e[m
+Author: Docongan <ando73842@gmail.com>
+Date:   Tue Mar 3 11:25:14 2026 +0700
+
+    first commit
+
+[33mcommit b0c2f10f85dc4da49469d890eb5af3a7b3c47a40[m
+Author: Docongan <ando73842@gmail.com>
+Date:   Tue Jan 27 09:12:56 2026 +0700
+
+    Initial commit
+
+[33mcommit 20740067499030a0e4e4921a031da90775f0ca33[m
+Author: Phan Thành <quangthanh.phan@aisoft.com.vn>
+Date:   Wed Feb 19 10:25:44 2025 +0700
+
+    todolist
+
+[33mcommit c3d1cf4158fc47a59d442d689dca52cbe747d429[m
+Author: Phan Thành <quangthanh.phan@aisoft.com.vn>
+Date:   Wed Feb 12 10:22:46 2025 +0700
+
+    fixbug
+
+[33mcommit 3a0e98c7038c4157f1d083d0a5e95f177e406e7a[m
+Author: Phan Thành <quangthanh.phan@aisoft.com.vn>
+Date:   Mon Feb 10 11:51:56 2025 +0700
+
+    init
+
+[33mcommit cac5411dc7401282b63095416ce6f6db0ab2a5e4[m
+Author: Phan Thành <quangthanh.phan@aisoft.com.vn>
+Date:   Fri Feb 7 00:11:55 2025 +0700
+
+    fixbug
+
+[33mcommit 34e82caff3ff52e4192c619092b0f5925e732d6f[m
+Merge: 4e56938 d5709cc
+Author: Phan Thành <quangthanh.phan@aisoft.com.vn>
+Date:   Thu Feb 6 23:57:07 2025 +0700
+
+    fixbug
+
+[33mcommit d5709ccc1509ad1c0cb542f1eeedc5287f6c9f54[m
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Tue Feb 4 17:08:08 2025 +0700
+
+    ButtonExtend: Fix hide text
+
+[33mcommit cd0e746e366539b589ddd40dfed06d80289accbe[m
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Mon Feb 3 17:58:07 2025 +0700
+
+    fix
+
+[33mcommit 2962345a4453e2c578b20465325a45e275e50daf[m
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Mon Feb 3 17:44:42 2025 +0700
+
+    Add TabViewPage component
+
+[33mcommit 1e6d7866221b52a2149d79694c87dfcd91f87731[m
+Merge: cfd4d93 393127a
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Mon Jan 13 10:37:49 2025 +0000
+
+    Merge branch 'feat/thong-bao' into 'basev3'
+    
+    Update
+    
+    See merge request web/base-web!25
+
+[33mcommit 393127af150cbe5634d9045a2d2ef7866b89ddfb[m
+Author: Truong Tuan Anh <truongtuananhkk@gmail.com>
+Date:   Mon Jan 13 16:32:09 2025 +0700
+
+    Update
+
+[33mcommit cfd4d938e3cef4a3879628687b4d48fc8dba3f65[m
+Merge: 936af21 083de60
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Mon Jan 13 06:40:50 2025 +0000
+
+    Merge branch 'feat/thong-bao' into 'basev3'
+    
+    Base thêm mới thông báo
+    
+    See merge request web/base-web!24
+
+[33mcommit 083de6020f90f1234adfea142eac87c6f00eb21b[m
+Author: Truong Tuan Anh <truongtuananhkk@gmail.com>
+Date:   Mon Jan 13 11:52:32 2025 +0700
+
+    update
+
+[33mcommit 9aaba7fe46cf22c618f3340e53117f176c8736ed[m
+Author: Truong Tuan Anh <truongtuananhkk@gmail.com>
+Date:   Mon Jan 13 11:40:10 2025 +0700
+
+    update
+
+[33mcommit d20f1891a518337c76a6183ad95942ddae39f8f6[m
+Author: Truong Tuan Anh <truongtuananhkk@gmail.com>
+Date:   Mon Jan 13 10:17:43 2025 +0700
+
+    update
+
+[33mcommit 38e905f1f16fa70af552242fea8e7c63387c92f6[m
+Author: Truong Tuan Anh <truongtuananhkk@gmail.com>
+Date:   Mon Jan 13 09:01:20 2025 +0700
+
+    update
+
+[33mcommit 274fee4755f56374f550362e8064223f3669dec3[m
+Author: Truong Tuan Anh <truongtuananhkk@gmail.com>
+Date:   Mon Jan 13 08:59:18 2025 +0700
+
+    Base thêm mới thông báo
+
+[33mcommit 936af21ab65b0398b90bf6d0fa94f3fafce928ee[m
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Wed Jan 8 09:01:23 2025 +0700
+
+    Update style Phản hồi
+
+[33mcommit 7b250a12af4845dfd04b5135f4741b3fe881ec28[m
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Tue Jan 7 18:38:03 2025 +0700
+
+    AuditLog: Update view modal
+
+[33mcommit 43eccc498f8bd7a723d8dc6c3d225ba3257a62d9[m
+Merge: fd0bcd9 1dd63d3
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Tue Jan 7 10:59:26 2025 +0000
+
+    Merge branch 'feat/base_previewFile' into 'basev3'
+    
+    AuditLog: Base view
+    
+    See merge request web/base-web!23
+
+[33mcommit 1dd63d37a97321ee026e6d87fbff60c15a2288a2[m
+Author: Truong Tuan Anh <truongtuananhkk@gmail.com>
+Date:   Tue Jan 7 10:25:57 2025 +0700
+
+    AuditLog: Base view
+
+[33mcommit fd0bcd92c720c9d3e9828a9e35ee51d7654b7383[m
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Mon Jan 6 17:54:09 2025 +0700
+
+    BASE: Chuyển config màu sang OIDC
+
+[33mcommit e3da3f4dae9989566ad7a5be9f97f3708f64aef6[m
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Thu Jan 2 19:22:25 2025 +0700
+
+    Update css
+
+[33mcommit 0a7b8affc31a68bff60d297b597eed5993241592[m
+Merge: d52e7f7 a3ba2ed
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Mon Dec 30 06:48:27 2024 +0000
+
+    Merge branch 'feat/base_previewFile' into 'basev3'
+    
+    Base gợi ý tìm kiếm: reverse option
+    
+    See merge request web/base-web!22
+
+[33mcommit a3ba2ede61665f9dcf473cdc061f864d5def2e52[m
+Author: Truong Tuan Anh <truongtuananhkk@gmail.com>
+Date:   Mon Dec 30 13:47:14 2024 +0700
+
+    update
+
+[33mcommit 0e3a315ebd74bf4dcfe2c2dc0aa2553906b5dcdf[m
+Author: Truong Tuan Anh <truongtuananhkk@gmail.com>
+Date:   Mon Dec 30 13:45:29 2024 +0700
+
+    update
+
+[33mcommit 15527b4fbb235093e50c003ead5657186e3ab5b8[m
+Author: Truong Tuan Anh <truongtuananhkk@gmail.com>
+Date:   Sat Dec 28 16:51:50 2024 +0700
+
+    Base gợi ý tìm kiếm: reverse option
+
+[33mcommit d52e7f7d41477de022f5f6541c2a1df6769c712f[m
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Wed Dec 25 14:07:23 2024 +0700
+
+    Setting: Udpate
+
+[33mcommit 6d0e7a9c16aca9cd1c0d6a42568b209598e71bac[m
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Wed Dec 25 13:56:03 2024 +0700
+
+    Thông báo: Fix read noti
+
+[33mcommit b978413f26950cab65a71b461c10a10e86cb859f[m
+Merge: 0dbe17c 76c8175
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Tue Dec 24 12:12:12 2024 +0000
+
+    Merge branch 'feat/base_previewFile' into 'basev3'
+    
+    Fix bug auto dowload iframe
+    
+    See merge request web/base-web!21
+
+[33mcommit 76c817515faf6f7c2a0c947a7c7601329fb9a7a7[m
+Author: Truong Tuan Anh <truongtuananhkk@gmail.com>
+Date:   Tue Dec 24 16:37:35 2024 +0700
+
+    Fix bug auto dowload iframe
+
+[33mcommit 0dbe17c5e61992db01cd1f14f25af2e2a8b1b30a[m
+Merge: 1feb890 0cdb07a
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Tue Dec 24 03:33:54 2024 +0000
+
+    Merge branch 'feat/base_previewFile' into 'basev3'
+    
+    Tối ưu base preview file
+    
+    See merge request web/base-web!20
+
+[33mcommit 0cdb07a2ccd46d9cd9ad59c211d458ebb6392f48[m
+Author: Truong Tuan Anh <truongtuananhkk@gmail.com>
+Date:   Tue Dec 24 10:00:57 2024 +0700
+
+    Tối ưu base preview file
+
+[33mcommit 1feb890eda4681903e83ddc682e63cfb018edd76[m
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Tue Dec 24 09:48:29 2024 +0700
+
+    UI: Update CSS
+
+[33mcommit fffde79b6144f69166aa4b5e96ca24d2e0a9a2f1[m
+Merge: e1bb946 49b4410
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Thu Dec 19 04:36:34 2024 +0000
+
+    Merge branch 'feat/base_previewFile' into 'basev3'
+    
+    update Interface file
+    
+    See merge request web/base-web!19
+
+[33mcommit 49b4410008732e2a40a6e4d9518680c3e9bef0c2[m
+Author: Truong Tuan Anh <truongtuananhkk@gmail.com>
+Date:   Thu Dec 19 10:59:16 2024 +0700
+
+    update Interface file
+
+[33mcommit e1bb9469fb1d4a4dd7bf4952d828e4786e3cba03[m
+Merge: 6832b0c 24860b7
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Thu Dec 19 02:29:28 2024 +0000
+
+    Merge branch 'feat/base_previewFile' into 'basev3'
+    
+    update
+    
+    See merge request web/base-web!18
+
+[33mcommit 24860b7b8075da0cd31d8c36208555fd73beb5fc[m
+Author: Truong Tuan Anh <truongtuananhkk@gmail.com>
+Date:   Thu Dec 19 09:20:04 2024 +0700
+
+    update
+
+[33mcommit 6832b0cb1469bf5a319c3b42a0dbaf8e16170789[m
+Merge: 520a394 4326062
+Author: Ngô Văn Nhận <vannhan.ngo@aisoft.com.vn>
+Date:   Wed Dec 18 08:29:05 2024 +0000
+
+    Merge branch 'feat/base_previewFile' into 'basev3'
+    
+    update Path IP
+    
+    See merge request web/base-web!17
+
+[
